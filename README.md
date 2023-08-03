@@ -2,12 +2,16 @@
 
 ### task 0
 
-[Title](README.md) ![0-node](images/0-node.png)
+[0-node](README.md) ![image](images/0-node.png)
 
 ### task 1
 
-[Title](README.md) ![0-node](images/1-left.png)
+[1-left](README.md) ![image](images/1-left.png)
 
 ### task 2
 
-[Title](README.md) ![0-node](images/2-right.png)
+[2-right](README.md) ![image](images/2-right.png)
+
+### task 3
+
+[3-del](README.md) ![image](images/3-del.png)
