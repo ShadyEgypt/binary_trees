@@ -64,3 +64,15 @@
 ### task 15
 
 [15-full](README.md) ![image](images/15-full.png)
+
+### task 16
+
+[16-perfect](README.md) ![image](images/16-perfect.png)
+
+### task 17
+
+[17-sibling](README.md) ![image](images/17-sibling.png)
+
+### task 18
+
+[18-uncle](README.md) ![image](images/18-uncle.png)
