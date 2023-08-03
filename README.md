@@ -23,3 +23,11 @@
 ### task 5
 
 [5-root](README.md) ![image](images/5-root.png)
+
+### task 6
+
+[6-pre](README.md) ![image](images/6-pre.png)
+
+### task 7
+
+[7-in](README.md) ![image](images/7-in.png)
