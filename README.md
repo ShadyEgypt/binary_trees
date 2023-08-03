@@ -76,3 +76,15 @@
 ### task 18
 
 [18-uncle](README.md) ![image](images/18-uncle.png)
+
+### task 100
+
+[100-ancestor](README.md) ![image](images/100-ancestor.png)
+
+### task 101
+
+[101-lvl](README.md) ![image](images/101-lvl.png)
+
+### task 102
+
+[102-complete](README.md) ![image](images/102-complete.png)
