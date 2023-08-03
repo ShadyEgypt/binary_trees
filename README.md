@@ -88,3 +88,11 @@
 ### task 102
 
 [102-complete](README.md) ![image](images/102-complete.png)
+
+### task 103
+
+[103-rotl](README.md) ![image](images/103-rotl.png)
+
+### task 104
+
+[104-rotr](README.md) ![image](images/104-rotr.png)
