@@ -52,3 +52,7 @@
 ### task 12
 
 [12-leaves](README.md) ![image](images/12-leaves.png)
+
+### task 13
+
+[13-nodes](README.md) ![image](images/13-nodes.png)
