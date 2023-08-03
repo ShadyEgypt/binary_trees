@@ -44,3 +44,7 @@
 ### task 10
 
 [10-depth](README.md) ![image](images/10-depth.png)
+
+### task 11
+
+[11-size](README.md) ![image](images/11-size.png)
