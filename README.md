@@ -31,3 +31,8 @@
 ### task 7
 
 [7-in](README.md) ![image](images/7-in.png)
+
+
+### task 7
+
+[8-post](README.md) ![image](images/8-post.png)
