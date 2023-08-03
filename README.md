@@ -48,3 +48,7 @@
 ### task 11
 
 [11-size](README.md) ![image](images/11-size.png)
+
+### task 12
+
+[12-leaves](README.md) ![image](images/12-leaves.png)
