@@ -56,3 +56,7 @@
 ### task 13
 
 [13-nodes](README.md) ![image](images/13-nodes.png)
+
+### task 14
+
+[14-balance](README.md) ![image](images/14-balance.png)
