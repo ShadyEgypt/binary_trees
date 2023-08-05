@@ -124,3 +124,7 @@
 ### task 121
 
 [121](README.md) ![image](images/121.png)
+
+### task 122
+
+[122](README.md) ![image](images/122.png)
